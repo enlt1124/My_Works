@@ -1,9 +1,11 @@
 
-# A Quick Overview on Some of my works at Turing College🧐
+# Some of my works at Turing College
 
 
-Most of the ETL process was done using SQL in BigQuery.
-Please note that some of my works are not public so that other learners will not have direct answers of the tasks😉 however you can still request for access if you are curious about a specific task.
+EDA and data transformation was performed using SQL (BigQuery) or Python.
+The full project is not uploaded so that other learners will not have direct answers of the tasks.
+
+**Please write me personally to request access and get full details of a specific task!!!**
 
 ## 
 ## 🔎 Cohort Analysis
@@ -12,7 +14,7 @@ Analyzing user weekly retention for a fictional subscription-based company in a 
 ![Cohort Analysis Erika T_001](https://github.com/user-attachments/assets/e503067e-a322-49a2-b992-dce2f39fe91a)
 ![Cohort Analysis Erika T_002](https://github.com/user-attachments/assets/233bf4d1-7c87-4e2b-905a-d30a09f45b17)
 
-I added the extra step to include the cohort chart and additional insights in a nice dashboard with some conditional formatting for an easier look.
+I added the extra step to include the cohort chart and additional insights in a nice dashboard using PowerBI with some conditional formatting for an easier look.
 
 ## 
 ## 🔽 Funnels Analysis
@@ -50,17 +52,15 @@ Statistical concepts such as variance, standard deviation, null/alternative hypo
 
 
 ## 
-## ♞ Chess Game with Python
-Is there an easy way to find out which pieces if your opponent you can you take based on the current chessboard status?
+## 🎵 Analysis of Spotify's top 200 songs in 2020
+The results are useful for artisits, especially for upcoming artists or record labels.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/0f01ab9a-eb32-48eb-a4f2-ba338c6f83cc">
+<img src="https://github.com/user-attachments/assets/b35636c2-8e17-475d-b8d3-bfe2041071c2", width=800>
 </p>
 
-No problem! This python 
-<a href="https://github.com/code50/161642081/tree/0c921b854397f0aa657854789c27dd9b4e34dd7c/chess"> code </a>
-can answer this question for you:)
+Libraries used: pandas, seaborn, matplotlib, numpy
 
 ##
 ## 🔜 coming soon...
-an analysis of Spotify top 200 songs using python and pandas!
+predictive model using logistic regression to determine whether a patient is at risk for coronary heart disease!
