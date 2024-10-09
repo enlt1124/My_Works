@@ -62,5 +62,14 @@ The results are useful for artisits, especially for upcoming artists or record l
 Libraries used: pandas, seaborn, matplotlib, numpy
 
 ##
-## 🔜 coming soon...
-predictive model using logistic regression to determine whether a patient is at risk for coronary heart disease!
+## 🪄 Machine Learning
+A predictive model using logistic regression and python to determine whether a patient is at risk for coronary heart disease.
+
+The aim is to answer the question: _**Is a patient at prone to a 10-year risk of coronary heart disease?**_ 
+
+
+![imagen](https://github.com/user-attachments/assets/d9c34561-62bf-49e1-bd77-cd189b34c83e)
+
+
+
+Libraries Used: pandas, matplotlib, seaborn, scikit-learn
